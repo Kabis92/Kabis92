@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon profil GitHub
 
-Je suis **Ismaël Kaboré**, un développeur backend basé à Ouagadougou, Burkina Faso. 
-Je suis passionné par le développement d'applications avec **Spring Boot** et j'aime apprendre 
+Je suis **Ismaël Kaboré**, un développeur fullstack basé à Stittsville, Ontario, Canada. 
+Je suis passionné par le développement d'applications backend/front  et j'aime apprendre 
 de nouvelles technologies. Je travaille actuellement à améliorer mes compétences en backend 
 et en architecture logicielle.
 
@@ -123,8 +123,8 @@ Je suis toujours ouvert aux retours et aux suggestions pour m'améliorer.
 
 - **Email**: kaborkabis@gmail.com
 - **LinkedIn**: [Ismaël Kaboré](https://www.linkedin.com/in/ismael-kaboré-a77b91162 )
-- **Téléphone**: +226 77059656
-- **Localisation**: Ouagadougou, Burkina Faso 🇧🇫
+- **Téléphone**: +226 77059656 (Burkina Faso) / À jour bientôt
+- **Localisation**: 246 A Livery Street, Stittsville, Ontario, Canada 🇨🇦
 
 ---
 
