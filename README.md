@@ -123,8 +123,8 @@ I'm always open to feedback and suggestions for improvement.
 
 - **Email**: kaborkabis@gmail.com
 - **LinkedIn**: [Ismaël Kaboré](https://www.linkedin.com/in/ismael-kaboré-a77b91162 )
-- **Phone**: +226 77059656 (Burkina Faso) / Coming soon
-- **Location**: 246 A Livery Street, Stittsville, Ontario, Canada 🇨🇦
+- **Phone**: +1(819) 968-4718 / Coming soon
+- **Location**: Stittsville, Ontario, Canada 🇨🇦
 
 ---
 
