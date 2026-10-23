@@ -123,7 +123,7 @@ I'm always open to feedback and suggestions for improvement.
 
 - **Email**: kaborkabis@gmail.com
 - **LinkedIn**: [Ismaël Kaboré](https://www.linkedin.com/in/ismael-kaboré-a77b91162 )
-- **Phone**: +1(819) 968-4718 / Coming soon
+- **Phone**: +1(819) 968-4718
 - **Location**: Stittsville, Ontario, Canada 🇨🇦
 
 ---
